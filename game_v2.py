@@ -53,5 +53,6 @@ def score_game(predict_func) -> int:
 
 
 if __name__ == "__main__":
-    # RUN
+    # RUN 
     score_game(smart_predict)
+  
